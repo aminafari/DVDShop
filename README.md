@@ -36,7 +36,7 @@ Le site est construit avec **WordPress** et **WooCommerce**, offrant une expéri
 
 1. **Télécharger le projet** :
    - Clonez ce dépôt GitHub sur votre machine locale :
-     git clone https://github.com/votre-utilisateur/nom-du-repo.git
+     git clone https://github.com/aminafari/DVDShop.git
   
 
 2. **Configuration du serveur local** :
